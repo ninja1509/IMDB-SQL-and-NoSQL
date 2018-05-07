@@ -181,12 +181,11 @@ order by rank desc;
 select name,rank
 from movies 
 where rank>=6 and id in (select movie_id
-						             from roles
-                        where actor_id  in (
-                                  select id 
-                                  from actors
-                                  where first_name='Jim' and last_name='Carrey'))
-                                  order by rank desc;
+		         from roles
+                         where actor_id  in (select id 
+					     from actors
+					     where first_name='Jim' and last_name='Carrey'))
+					     order by rank desc;
 
 ## 5) Find the movies name played by Samuel L. Jackson
 select movies.name
@@ -242,8 +241,8 @@ select name,year
 from movies join movies_directors on  movie_id = movies.id
      join directors on directors.id=director_id
 where directors.first_name = "Quentin" and directors.last_name = "Tarantino" and movies.id in  ( select movie_id
-									                                                                                from roles
-                                                                                                  where actor_id in ( select id
+									                         from roles
+                                                                                                 where actor_id in ( select id
                                                                                                                       from actors
                                                                                                                       where first_name = "Samuel L." and last_name="Jackson"))
                                                                                                                       order by year;
@@ -257,7 +256,7 @@ select distinct first_name,last_name,name as movies,rank,year
 from movies join movies_directors on director_id = id 
 			join directors on director_id = directors.id
 having rank >= all (select rank
-				            from movies
+		    from movies
                     having rank = 8)
 order by rank,year;
         
@@ -286,7 +285,7 @@ order by n_of_movies desc;
 select  first_name as name ,last_name as surname,rank_rate,n_of_movies
 from actors join himself_films on actors.id=himself_films.id
 where n_of_movies>=all (select n_of_movies
-										    from himself_films);
+			from himself_films);
 
 
 
