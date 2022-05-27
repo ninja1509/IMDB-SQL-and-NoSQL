@@ -9,7 +9,7 @@
     "Actors": "Chris Pratt, Vin Diesel, Bradley Cooper, Zoe Saldana",
      "year": 2014,
     "Runtime (Minutes)": 121,
-    "rating": 8.1,
+    "rating": "g",
     "Votes": 757074,
     "Revenue (Millions)": 333.13,
     "Metascore": 76
@@ -23,7 +23,7 @@
     "Actors": "Noomi Rapace, Logan Marshall-Green, Michael Fassbender, Charlize Theron",
      "year": 2012,
     "Runtime (Minutes)": 124,
-    "rating": 7,
+    "rating": "unrated",
     "Votes": 485820,
     "Revenue (Millions)": 126.46,
     "Metascore": 65
@@ -37,7 +37,7 @@
     "Actors": "James McAvoy, Anya Taylor-Joy, Haley Lu Richardson, Jessica Sula",
      "year": 2016,
     "Runtime (Minutes)": 117,
-    "rating": 7.3,
+    "rating": "unrated",
     "Votes": 157606,
     "Revenue (Millions)": 138.12,
     "Metascore": 62
@@ -51,7 +51,7 @@
     "Actors": "Matthew McConaughey,Reese Witherspoon, Seth MacFarlane, Scarlett Johansson",
      "year": 2016,
     "Runtime (Minutes)": 108,
-    "rating": 7.2,
+    "rating": "unrated",
     "Votes": 60545,
     "Revenue (Millions)": 270.32,
     "Metascore": 59
@@ -65,7 +65,7 @@
     "Actors": "Will Smith, Jared Leto, Margot Robbie, Viola Davis",
      "year": 2016,
     "Runtime (Minutes)": 123,
-    "rating": 6.2,
+    "rating": "g",
     "Votes": 393727,
     "Revenue (Millions)": 325.02,
     "Metascore": 40
@@ -79,7 +79,7 @@
     "Actors": "Matt Damon, Tian Jing, Willem Dafoe, Andy Lau",
      "year": 2016,
     "Runtime (Minutes)": 103,
-    "rating": 6.1,
+    "rating": "unrated",
     "Votes": 56036,
     "Revenue (Millions)": 45.13,
     "Metascore": 42
@@ -93,7 +93,7 @@
     "Actors": "Ryan Gosling, Emma Stone, Rosemarie DeWitt, J.K. Simmons",
      "year": 2016,
     "Runtime (Minutes)": 128,
-    "rating": 8.3,
+    "rating": "g",
     "Votes": 258682,
     "Revenue (Millions)": 151.06,
     "Metascore": 93
@@ -107,7 +107,7 @@
     "Actors": "Essie Davis, Andrea Riseborough, Julian Barratt,Kenneth Branagh",
      "year": 2016,
     "Runtime (Minutes)": 89,
-    "rating": 6.4,
+    "rating": "unrated",
     "Votes": 2490,
     "Revenue (Millions)": "",
     "Metascore": 71
@@ -121,7 +121,7 @@
     "Actors": "Charlie Hunnam, Robert Pattinson, Sienna Miller, Tom Holland",
      "year": 2016,
     "Runtime (Minutes)": 141,
-    "rating": 7.1,
+    "rating": "unrated",
     "Votes": 7188,
     "Revenue (Millions)": 8.01,
     "Metascore": 78
@@ -135,7 +135,7 @@
     "Actors": "Jennifer Lawrence, Chris Pratt, Michael Sheen,Laurence Fishburne",
      "year": 2016,
     "Runtime (Minutes)": 116,
-    "rating": 7,
+    "rating": "g",
     "Votes": 192177,
     "Revenue (Millions)": 100.01,
     "Metascore": 41
@@ -149,7 +149,7 @@
     "Actors": "Eddie Redmayne, Katherine Waterston, Alison Sudol,Dan Fogler",
      "year": 2016,
     "Runtime (Minutes)": 133,
-    "rating": 7.5,
+    "rating": "unrated",
     "Votes": 232072,
     "Revenue (Millions)": 234.02,
     "Metascore": 66
@@ -163,7 +163,7 @@
     "Actors": "Taraji P. Henson, Octavia Spencer, Janelle Monáe,Kevin Costner",
      "year": 2016,
     "Runtime (Minutes)": 127,
-    "rating": 7.8,
+    "rating": "unrated",
     "Votes": 93103,
     "Revenue (Millions)": 169.27,
     "Metascore": 74
@@ -177,7 +177,7 @@
     "Actors": "Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen",
      "year": 2016,
     "Runtime (Minutes)": 133,
-    "rating": 7.9,
+    "rating": "unrated",
     "Votes": 323118,
     "Revenue (Millions)": 532.17,
     "Metascore": 65
@@ -191,7 +191,7 @@
     "Actors": "Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison",
      "year": 2016,
     "Runtime (Minutes)": 107,
-    "rating": 7.7,
+    "rating": "g",
     "Votes": 118151,
     "Revenue (Millions)": 248.75,
     "Metascore": 81
@@ -205,7 +205,7 @@
     "Actors": "Anne Hathaway, Jason Sudeikis, Austin Stowell,Tim Blake Nelson",
      "year": 2016,
     "Runtime (Minutes)": 109,
-    "rating": 6.4,
+    "rating": "g",
     "Votes": 8612,
     "Revenue (Millions)": 2.87,
     "Metascore": 70
@@ -219,7 +219,7 @@
     "Actors": "Louis C.K., Eric Stonestreet, Kevin Hart, Lake Bell",
      "year": 2016,
     "Runtime (Minutes)": 87,
-    "rating": 6.6,
+    "rating": "unrated",
     "Votes": 120259,
     "Revenue (Millions)": 368.31,
     "Metascore": 61
@@ -233,7 +233,7 @@
     "Actors": "Andrew Garfield, Sam Worthington, Luke Bracey,Teresa Palmer",
      "year": 2016,
     "Runtime (Minutes)": 139,
-    "rating": 8.2,
+    "rating": "g",
     "Votes": 211760,
     "Revenue (Millions)": 67.12,
     "Metascore": 71
@@ -247,7 +247,7 @@
     "Actors": "Matt Damon, Tommy Lee Jones, Alicia Vikander,Vincent Cassel",
      "year": 2016,
     "Runtime (Minutes)": 123,
-    "rating": 6.7,
+    "rating": "unrated",
     "Votes": 150823,
     "Revenue (Millions)": 162.16,
     "Metascore": 58
@@ -261,7 +261,7 @@
     "Actors": "Dev Patel, Nicole K_idman, Rooney Mara, Sunny Pawar",
      "year": 2016,
     "Runtime (Minutes)": 118,
-    "rating": 8.1,
+    "rating": "g",
     "Votes": 102061,
     "Revenue (Millions)": 51.69,
     "Metascore": 69
@@ -275,7 +275,7 @@
     "Actors": "Amy Adams, Jeremy Renner, Forest Whitaker,Michael Stuhlbarg",
      "year": 2016,
     "Runtime (Minutes)": 116,
-    "rating": 8,
+    "rating": "g",
     "Votes": 340798,
     "Revenue (Millions)": 100.5,
     "Metascore": 81
@@ -289,7 +289,7 @@
     "Actors": "Matthew McConaughey, Edgar Ramírez, Bryce Dallas Howard, Corey Stoll",
      "year": 2016,
     "Runtime (Minutes)": 120,
-    "rating": 6.7,
+    "rating": "unrated",
     "Votes": 19053,
     "Revenue (Millions)": 7.22,
     "Metascore": 49
@@ -303,7 +303,7 @@
     "Actors": "Casey Affleck, Michelle Williams, Kyle Chandler,Lucas Hedges",
      "year": 2016,
     "Runtime (Minutes)": 137,
-    "rating": 7.9,
+    "rating": "unrated",
     "Votes": 134213,
     "Revenue (Millions)": 47.7,
     "Metascore": 96
@@ -317,7 +317,7 @@
     "Actors": "Emma Booth, Ashleigh Cummings, Stephen Curry,Susie Porter",
      "year": 2016,
     "Runtime (Minutes)": 108,
-    "rating": 6.7,
+    "rating": "unrated",
     "Votes": 1115,
     "Revenue (Millions)": "",
     "Metascore": 72
@@ -331,7 +331,7 @@
     "Actors": "Anna Kendrick, Justin Timberlake,Zooey Deschanel, Christopher Mintz-Plasse",
      "year": 2016,
     "Runtime (Minutes)": 92,
-    "rating": 6.5,
+    "rating": "unrated",
     "Votes": 38552,
     "Revenue (Millions)": 153.69,
     "Metascore": 56
@@ -345,7 +345,7 @@
     "Actors": "Liam Hemsworth, Jeff Goldblum, Bill Pullman,Maika Monroe",
      "year": 2016,
     "Runtime (Minutes)": 120,
-    "rating": 5.3,
+    "rating": "unrated",
     "Votes": 127553,
     "Revenue (Millions)": 103.14,
     "Metascore": 32
@@ -359,7 +359,7 @@
     "Actors": "Fiona Gordon, Dominique Abel,Emmanuelle Riva, Pierre Richard",
      "year": 2016,
     "Runtime (Minutes)": 83,
-    "rating": 6.8,
+    "rating": "unrated",
     "Votes": 222,
     "Revenue (Millions)": "",
     "Metascore": ""
@@ -373,7 +373,7 @@
     "Actors": "Prabhas, Rana Daggubati, Anushka Shetty,Tamannaah Bhatia",
      "year": 2015,
     "Runtime (Minutes)": 159,
-    "rating": 8.3,
+    "rating": "g",
     "Votes": 76193,
     "Revenue (Millions)": 6.5,
     "Metascore": ""
@@ -387,7 +387,7 @@
     "Actors": "Jocelin Donahue, Jesse Bradford, Jesse Borrego,Lori Petty",
      "year": 2016,
     "Runtime (Minutes)": 99,
-    "rating": 4.7,
+    "rating": "unrated",
     "Votes": 523,
     "Revenue (Millions)": 0.01,
     "Metascore": ""
@@ -401,7 +401,7 @@
     "Actors": "Mila Kunis, Kathryn Hahn, Kristen Bell,Christina Applegate",
      "year": 2016,
     "Runtime (Minutes)": 100,
-    "rating": 6.2,
+    "rating": "unrated",
     "Votes": 66540,
     "Revenue (Millions)": 113.08,
     "Metascore": 60
@@ -415,7 +415,7 @@
     "Actors": "Michael Fassbender, Marion Cotillard, Jeremy Irons,Brendan Gleeson",
      "year": 2016,
     "Runtime (Minutes)": 115,
-    "rating": 5.9,
+    "rating": "g",
     "Votes": 112813,
     "Revenue (Millions)": 54.65,
     "Metascore": 36
@@ -429,7 +429,7 @@
     "Actors": "Zoey Deutch, James Franco, Tangie Ambrose,Cedric the Entertainer",
      "year": 2016,
     "Runtime (Minutes)": 111,
-    "rating": 6.3,
+    "rating": "unrated",
     "Votes": 48123,
     "Revenue (Millions)": 60.31,
     "Metascore": 39
@@ -443,7 +443,7 @@
     "Actors": "Amy Adams, Jake Gyllenhaal, Michael Shannon, Aaron Taylor-Johnson",
      "year": 2016,
     "Runtime (Minutes)": 116,
-    "rating": 7.5,
+    "rating": "unrated",
     "Votes": 126030,
     "Revenue (Millions)": 10.64,
     "Metascore": 67
@@ -457,7 +457,7 @@
     "Actors": "James McAvoy, Michael Fassbender, Jennifer Lawrence, Nicholas Hoult",
      "year": 2016,
     "Runtime (Minutes)": 144,
-    "rating": 7.1,
+    "rating": "g",
     "Votes": 275510,
     "Revenue (Millions)": 155.33,
     "Metascore": 52
@@ -471,7 +471,7 @@
     "Actors": "Ryan Reynolds, Morena Baccarin, T.J. Miller, Ed Skrein",
      "year": 2016,
     "Runtime (Minutes)": 108,
-    "rating": 8,
+    "rating": "g",
     "Votes": 627797,
     "Revenue (Millions)": 363.02,
     "Metascore": 65
@@ -485,7 +485,7 @@
     "Actors": "Milla Jovovich, Iain Glen, Ali Larter, Shawn Roberts",
      "year": 2016,
     "Runtime (Minutes)": 107,
-    "rating": 5.6,
+    "rating": "unrated",
     "Votes": 46165,
     "Revenue (Millions)": 26.84,
     "Metascore": 49
@@ -499,7 +499,7 @@
     "Actors": "Chris Evans, Robert Downey Jr.,Scarlett Johansson, Sebastian Stan",
      "year": 2016,
     "Runtime (Minutes)": 147,
-    "rating": 7.9,
+    "rating": "unrated",
     "Votes": 411656,
     "Revenue (Millions)": 408.08,
     "Metascore": 75
@@ -513,7 +513,7 @@
     "Actors": "Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy",
      "year": 2014,
     "Runtime (Minutes)": 169,
-    "rating": 8.6,
+    "rating": "g",
     "Votes": 1047747,
     "Revenue (Millions)": 187.99,
     "Metascore": 74
@@ -527,7 +527,7 @@
     "Actors": "Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong",
      "year": 2016,
     "Runtime (Minutes)": 115,
-    "rating": 7.6,
+    "rating": "unrated",
     "Votes": 293732,
     "Revenue (Millions)": 232.6,
     "Metascore": 72
@@ -541,7 +541,7 @@
     "Actors": "Denzel Washington, Chris Pratt, Ethan Hawke,Vincent D'Onofrio",
      "year": 2016,
     "Runtime (Minutes)": 132,
-    "rating": 6.9,
+    "rating": "unrated",
     "Votes": 122853,
     "Revenue (Millions)": 93.38,
     "Metascore": 54
@@ -555,7 +555,7 @@
     "Actors": "John Francis Daley, Austin Pendleton, Colleen Camp, Neil Flynn",
      "year": 2016,
     "Runtime (Minutes)": 113,
-    "rating": 7.1,
+    "rating": "unrated",
     "Votes": 241,
     "Revenue (Millions)": "",
     "Metascore": ""
@@ -569,7 +569,7 @@
     "Actors": "Seth Rogen, Kristen Wiig, Jonah Hill, Alistair Abell",
      "year": 2016,
     "Runtime (Minutes)": 89,
-    "rating": 6.3,
+    "rating": "unrated",
     "Votes": 120690,
     "Revenue (Millions)": 97.66,
     "Metascore": 66
@@ -583,7 +583,7 @@
     "Actors": "Mahershala Ali, Shariff Earp, Duan Sanderson, Alex R. Hibbert",
      "year": 2016,
     "Runtime (Minutes)": 111,
-    "rating": 7.5,
+    "rating": "unrated",
     "Votes": 135095,
     "Revenue (Millions)": 27.85,
     "Metascore": 99
@@ -597,7 +597,7 @@
     "Actors": "Brittany Blanton, Ayse Howard, Roman Jossart,Nadia White",
      "year": 2016,
     "Runtime (Minutes)": 73,
-    "rating": 2.7,
+    "rating": "unrated",
     "Votes": 496,
     "Revenue (Millions)": "",
     "Metascore": ""
@@ -611,7 +611,7 @@
     "Actors": "Michael Keaton, Nick Offerman, John Carroll Lynch, Linda Cardellini",
      "year": 2016,
     "Runtime (Minutes)": 115,
-    "rating": 7.2,
+    "rating": "unrated",
     "Votes": 37033,
     "Revenue (Millions)": 12.79,
     "Metascore": 66
@@ -625,7 +625,7 @@
     "Actors": "Gabriel Chavarria, Demián Bichir, Theo Rossi,Tony Revolori",
      "year": 2016,
     "Runtime (Minutes)": 99,
-    "rating": 6.3,
+    "rating": "unrated",
     "Votes": 279,
     "Revenue (Millions)": 4.21,
     "Metascore": 57
@@ -639,7 +639,7 @@
     "Actors": "Johnny Depp, Penélope Cruz, Ian McShane, Geoffrey Rush",
      "year": 2007,
     "Runtime (Minutes)": 136,
-    "rating": 6.7,
+    "rating": "unrated",
     "Votes": 160,
     "Revenue (Millions)": 241.06,
     "Metascore": 45
@@ -653,7 +653,7 @@
     "Actors": "Jessica Chastain, Mark Strong, Gugu Mbatha-Raw,Michael Stuhlbarg",
      "year": 2016,
     "Runtime (Minutes)": 132,
-    "rating": 7.3,
+    "rating": "unrated",
     "Votes": 17818,
     "Revenue (Millions)": 3.44,
     "Metascore": 64
@@ -667,7 +667,7 @@
     "Actors": "Hermione Corfield, Addison Timlin, Joely Richardson,Jeremy Irvine",
      "year": 2016,
     "Runtime (Minutes)": 91,
-    "rating": 5.6,
+    "rating": "unrated",
     "Votes": 5103,
     "Revenue (Millions)": "",
     "Metascore": ""
@@ -681,7 +681,7 @@
     "Actors": "Chris Pine, Zachary Quinto, Karl Urban, Zoe Saldana",
      "year": 2016,
     "Runtime (Minutes)": 122,
-    "rating": 7.1,
+    "rating": "unrated",
     "Votes": 164567,
     "Revenue (Millions)": 158.8,
     "Metascore": 68
@@ -695,7 +695,7 @@
     "Actors": "Charlize Theron, Javier Bardem, Adèle Exarchopoulos,Jared Harris",
      "year": 2016,
     "Runtime (Minutes)": 130,
-    "rating": 3.7,
+    "rating": "unrated",
     "Votes": 987,
     "Revenue (Millions)": "",
     "Metascore": 16
@@ -709,7 +709,7 @@
     "Actors": "Daisy R_idley, John Boyega, Oscar Isaac, Domhnall Gleeson",
      "year": 2015,
     "Runtime (Minutes)": 136,
-    "rating": 8.1,
+    "rating": "g",
     "Votes": 661608,
     "Revenue (Millions)": 936.63,
     "Metascore": 81
@@ -723,7 +723,7 @@
     "Actors": "Kate Beckinsale, Theo James, Tobias Menzies, Lara Pulver",
      "year": 2016,
     "Runtime (Minutes)": 91,
-    "rating": 5.8,
+    "rating": "unrated",
     "Votes": 41362,
     "Revenue (Millions)": 30.35,
     "Metascore": 23
@@ -737,7 +737,7 @@
     "Actors": "Jennifer Aniston, Kate Hudson, Julia Roberts, Jason Sudeikis",
      "year": 2016,
     "Runtime (Minutes)": 118,
-    "rating": 5.6,
+    "rating": "unrated",
     "Votes": 20221,
     "Revenue (Millions)": 32.46,
     "Metascore": 18
@@ -751,7 +751,7 @@
     "Actors": "Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe",
      "year": 2014,
     "Runtime (Minutes)": 101,
-    "rating": 7.2,
+    "rating": "unrated",
     "Votes": 321933,
     "Revenue (Millions)": 43,
     "Metascore": 68
@@ -765,7 +765,7 @@
     "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart,Michael Caine",
      "year": 2008,
     "Runtime (Minutes)": 152,
-    "rating": 9,
+    "rating": "g",
     "Votes": 1791916,
     "Revenue (Millions)": 533.32,
     "Metascore": 82
@@ -779,7 +779,7 @@
     "Actors": "Andrew Garfield, Adam Driver, Liam Neeson,Tadanobu Asano",
      "year": 2016,
     "Runtime (Minutes)": 161,
-    "rating": 7.3,
+    "rating": "g",
     "Votes": 49190,
     "Revenue (Millions)": 7.08,
     "Metascore": 79
@@ -793,7 +793,7 @@
     "Actors": "Stephen Lang, Jane Levy, Dylan Minnette, Daniel Zovatto",
      "year": 2016,
     "Runtime (Minutes)": 88,
-    "rating": 7.2,
+    "rating": "unrated",
     "Votes": 121103,
     "Revenue (Millions)": 89.21,
     "Metascore": 71
@@ -807,7 +807,7 @@
     "Actors": "Emilia Clarke, Sam Claflin, Janet McTeer, Charles Dance",
      "year": 2016,
     "Runtime (Minutes)": 106,
-    "rating": 7.4,
+    "rating": "unrated",
     "Votes": 113322,
     "Revenue (Millions)": 56.23,
     "Metascore": 51
@@ -821,7 +821,7 @@
     "Actors": "Gemma Arterton, Sam Claflin, Bill Nighy, Jack Huston",
      "year": 2016,
     "Runtime (Minutes)": 117,
-    "rating": 7,
+    "rating": "unrated",
     "Votes": 3739,
     "Revenue (Millions)": 3.18,
     "Metascore": 76
@@ -835,7 +835,7 @@
     "Actors": "Tom Hanks, Aaron Eckhart, Laura Linney, Valerie Mahaffey",
      "year": 2016,
     "Runtime (Minutes)": 96,
-    "rating": 7.5,
+    "rating": "unrated",
     "Votes": 137608,
     "Revenue (Millions)": 125.07,
     "Metascore": 74
@@ -849,7 +849,7 @@
     "Actors": "Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg",
      "year": 2016,
     "Runtime (Minutes)": 151,
-    "rating": 6.7,
+    "rating": "unrated",
     "Votes": 472307,
     "Revenue (Millions)": 330.25,
     "Metascore": 44
@@ -863,7 +863,7 @@
     "Actors": "Brian Cox, Emile Hirsch, Ophelia Lovibond, Michael McElhatton",
      "year": 2016,
     "Runtime (Minutes)": 86,
-    "rating": 6.8,
+    "rating": "unrated",
     "Votes": 35870,
     "Revenue (Millions)": "",
     "Metascore": 65
@@ -877,7 +877,7 @@
     "Actors": "Emily Blunt, Haley Bennett, Rebecca Ferguson, Justin Theroux",
      "year": 2016,
     "Runtime (Minutes)": 112,
-    "rating": 6.5,
+    "rating": "unrated",
     "Votes": 102177,
     "Revenue (Millions)": 75.31,
     "Metascore": 48
@@ -891,7 +891,7 @@
     "Actors": "Dakota Johnson, Jamie Dornan, Jennifer Ehle,Eloise Mumford",
      "year": 2015,
     "Runtime (Minutes)": 125,
-    "rating": 4.1,
+    "rating": "unrated",
     "Votes": 244474,
     "Revenue (Millions)": 166.15,
     "Metascore": 46
@@ -905,7 +905,7 @@
     "Actors": "Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine",
      "year": 2006,
     "Runtime (Minutes)": 130,
-    "rating": 8.5,
+    "rating": "g",
     "Votes": 913152,
     "Revenue (Millions)": 53.08,
     "Metascore": 66
@@ -919,7 +919,7 @@
     "Actors": "Colin Firth, Taron Egerton, Samuel L. Jackson,Michael Caine",
      "year": 2014,
     "Runtime (Minutes)": 129,
-    "rating": 7.7,
+    "rating": "unrated",
     "Votes": 440209,
     "Revenue (Millions)": 128.25,
     "Metascore": 58
@@ -933,7 +933,7 @@
     "Actors": "Mark Wahlberg, Michelle Monaghan, J.K. Simmons, John Goodman",
      "year": 2016,
     "Runtime (Minutes)": 133,
-    "rating": 7.4,
+    "rating": "unrated",
     "Votes": 39784,
     "Revenue (Millions)": 31.86,
     "Metascore": 69
@@ -947,7 +947,7 @@
     "Actors": "Tom Hardy, Charlize Theron, Nicholas Hoult, Zoë Kravitz",
      "year": 2015,
     "Runtime (Minutes)": 120,
-    "rating": 8.1,
+    "rating": "g",
     "Votes": 632842,
     "Revenue (Millions)": 153.63,
     "Metascore": 90
@@ -961,7 +961,7 @@
     "Actors": "Bryan Cranston, Jennifer Garner, Beverly D'Angelo,Jason O'Mara",
      "year": 2016,
     "Runtime (Minutes)": 106,
-    "rating": 7.5,
+    "rating": "unrated",
     "Votes": 291,
     "Revenue (Millions)": 0.01,
     "Metascore": 61
@@ -975,7 +975,7 @@
     "Actors": "Mark Wahlberg, Kurt Russell, Douglas M. Griffin, James DuMont",
      "year": 2016,
     "Runtime (Minutes)": 107,
-    "rating": 7.2,
+    "rating": "unrated",
     "Votes": 89849,
     "Revenue (Millions)": 61.28,
     "Metascore": 68
@@ -989,7 +989,7 @@
     "Actors": "Oscar Isaac, Charlotte Le Bon, Christian Bale, Daniel Giménez Cacho",
      "year": 2016,
     "Runtime (Minutes)": 133,
-    "rating": 5.9,
+    "rating": "unrated",
     "Votes": 149791,
     "Revenue (Millions)": "",
     "Metascore": 49
@@ -1003,7 +1003,7 @@
     "Actors": "Brad Pitt, Marion Cotillard, Jared Harris, Vincent Ebrahim",
      "year": 2016,
     "Runtime (Minutes)": 124,
-    "rating": 7.1,
+    "rating": "unrated",
     "Votes": 78079,
     "Revenue (Millions)": 40.07,
     "Metascore": 60
@@ -1017,7 +1017,7 @@
     "Actors": "Lewis MacDougall, Sigourney Weaver, Felicity Jones,Toby Kebbell",
      "year": 2016,
     "Runtime (Minutes)": 108,
-    "rating": 7.5,
+    "rating": "unrated",
     "Votes": 39134,
     "Revenue (Millions)": 3.73,
     "Metascore": 76
@@ -1031,7 +1031,7 @@
     "Actors": "Will Smith, Edward Norton, Kate Winslet, Michael Peña",
      "year": 2016,
     "Runtime (Minutes)": 97,
-    "rating": 6.8,
+    "rating": "unrated",
     "Votes": 43977,
     "Revenue (Millions)": 30.98,
     "Metascore": 23
@@ -1045,7 +1045,7 @@
     "Actors": "Ginnifer Goodwin, Jason Bateman, _idris Elba, Jenny Slate",
      "year": 2016,
     "Runtime (Minutes)": 108,
-    "rating": 8.1,
+    "rating": "g",
     "Votes": 296853,
     "Revenue (Millions)": 341.26,
     "Metascore": 78
@@ -1059,7 +1059,7 @@
     "Actors": "Johnny Depp, Orlando Bloom, Keira Knightley,Geoffrey Rush",
      "year": 2016,
     "Runtime (Minutes)": 169,
-    "rating": 7.1,
+    "rating": "unrated",
     "Votes": 498821,
     "Revenue (Millions)": 309.4,
     "Metascore": 50
@@ -1073,7 +1073,7 @@
     "Actors": "Robert Downey Jr., Chris Evans, Scarlett Johansson,Jeremy Renner",
      "year": 2012,
     "Runtime (Minutes)": 143,
-    "rating": 8.1,
+    "rating": "g",
     "Votes": 1045588,
     "Revenue (Millions)": 623.28,
     "Metascore": 69
@@ -1087,7 +1087,7 @@
     "Actors": "Brad Pitt, Diane Kruger, Eli Roth,Mélanie Laurent",
      "year": 2009,
     "Runtime (Minutes)": 153,
-    "rating": 8.3,
+    "rating": "g",
     "Votes": 959065,
     "Revenue (Millions)": 120.52,
     "Metascore": 69
@@ -1101,7 +1101,7 @@
     "Actors": "Johnny Depp, Orlando Bloom, Keira Knightley, Jack Davenport",
      "year": 2006,
     "Runtime (Minutes)": 151,
-    "rating": 7.3,
+    "rating": "unrated",
     "Votes": 552027,
     "Revenue (Millions)": 423.03,
     "Metascore": 53
@@ -1115,7 +1115,7 @@
     "Actors": "Melissa McCarthy, Kristen Wiig, Kate McKinnon, Leslie Jones",
      "year": 2016,
     "Runtime (Minutes)": 116,
-    "rating": 5.3,
+    "rating": "unrated",
     "Votes": 147717,
     "Revenue (Millions)": 128.34,
     "Metascore": 60
@@ -1129,7 +1129,7 @@
     "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Ken Watanabe",
      "year": 2010,
     "Runtime (Minutes)": 148,
-    "rating": 8.8,
+    "rating": "g",
     "Votes": 1583625,
     "Revenue (Millions)": 292.57,
     "Metascore": 74
@@ -1143,7 +1143,7 @@
     "Actors": "Viggo Mortensen, George MacKay, Samantha Isler,Annalise Basso",
      "year": 2016,
     "Runtime (Minutes)": 118,
-    "rating": 7.9,
+    "rating": "unrated",
     "Votes": 105081,
     "Revenue (Millions)": 5.88,
     "Metascore": 72
@@ -1157,7 +1157,7 @@
     "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie,Matthew McConaughey",
      "year": 2013,
     "Runtime (Minutes)": 180,
-    "rating": 8.2,
+    "rating": "g",
     "Votes": 865134,
     "Revenue (Millions)": 116.87,
     "Metascore": 75
@@ -1171,7 +1171,7 @@
     "Actors": "Ben Affleck, Rosamund Pike, Neil Patrick Harris,Tyler Perry",
      "year": 2014,
     "Runtime (Minutes)": 149,
-    "rating": 8.1,
+    "rating": "g",
     "Votes": 636243,
     "Revenue (Millions)": 167.74,
     "Metascore": 79
@@ -1185,7 +1185,7 @@
     "Actors": "Vin Diesel, Paul Walker, Dwayne Johnson, Jason Statham",
      "year": 2015,
     "Runtime (Minutes)": 137,
-    "rating": 7.2,
+    "rating": "unrated",
     "Votes": 301249,
     "Revenue (Millions)": 350.03,
     "Metascore": 67
@@ -1199,7 +1199,7 @@
     "Actors": "Chris Pratt, Bryce Dallas Howard, Ty Simpkins,Judy Greer",
      "year": 2015,
     "Runtime (Minutes)": 124,
-    "rating": 7,
+    "rating": "unrated",
     "Votes": 455169,
     "Revenue (Millions)": 652.18,
     "Metascore": 59
@@ -1213,7 +1213,7 @@
     "Actors": "Ben Affleck, Elle Fanning, Brendan Gleeson, Chris Messina",
      "year": 2016,
     "Runtime (Minutes)": 129,
-    "rating": 6.4,
+    "rating": "unrated",
     "Votes": 27869,
     "Revenue (Millions)": 10.38,
     "Metascore": 49
@@ -1227,7 +1227,7 @@
     "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Michelle Rodriguez",
      "year": 2009,
     "Runtime (Minutes)": 162,
-    "rating": 7.8,
+    "rating": "g",
     "Votes": 935408,
     "Revenue (Millions)": 760.51,
     "Metascore": 83
@@ -1241,7 +1241,7 @@
     "Actors": "Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins",
      "year": 2015,
     "Runtime (Minutes)": 187,
-    "rating": 7.8,
+    "rating": "g",
     "Votes": 341170,
     "Revenue (Millions)": 54.12,
     "Metascore": 68
@@ -1255,7 +1255,7 @@
     "Actors": "Ben Affleck, Anna Kendrick, J.K. Simmons, Jon Bernthal",
      "year": 2016,
     "Runtime (Minutes)": 128,
-    "rating": 7.4,
+    "rating": "unrated",
     "Votes": 162122,
     "Revenue (Millions)": 86.2,
     "Metascore": 51
@@ -1269,7 +1269,7 @@
     "Actors": "Hugh Jackman, Jake Gyllenhaal, Viola Davis,Melissa Leo",
      "year": 2013,
     "Runtime (Minutes)": 153,
-    "rating": 8.1,
+    "rating": "g",
     "Votes": 431185,
     "Revenue (Millions)": 60.96,
     "Metascore": 74
@@ -1283,7 +1283,7 @@
     "Actors": "Travis Fimmel, Paula Patton, Ben Foster, Dominic Cooper",
      "year": 2016,
     "Runtime (Minutes)": 123,
-    "rating": 7,
+    "rating": "unrated",
     "Votes": 187547,
     "Revenue (Millions)": 47.17,
     "Metascore": 32
@@ -1297,7 +1297,7 @@
     "Actors": "Emma Stone, Viola Davis, Octavia Spencer, Bryce Dallas Howard",
      "year": 2007,
     "Runtime (Minutes)": 146,
-    "rating": 8.1,
+    "rating": "g",
     "Votes": 225,
     "Revenue (Millions)": 169.71,
     "Metascore": 62
@@ -1311,7 +1311,7 @@
     "Actors": "Jonah Hill, Miles Teller, Steve Lantz, Gregg Weiner",
      "year": 2016,
     "Runtime (Minutes)": 114,
-    "rating": 7.1,
+    "rating": "unrated",
     "Votes": 106463,
     "Revenue (Millions)": 43.02,
     "Metascore": 57
@@ -1325,7 +1325,7 @@
     "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
      "year": 2015,
     "Runtime (Minutes)": 141,
-    "rating": 7.4,
+    "rating": "g",
     "Votes": 516895,
     "Revenue (Millions)": 458.99,
     "Metascore": 66
@@ -1339,7 +1339,7 @@
     "Actors": "Russell Crowe, Ryan Gosling, Angourie Rice, Matt Bomer",
      "year": 2016,
     "Runtime (Minutes)": 116,
-    "rating": 7.4,
+    "rating": "unrated",
     "Votes": 175067,
     "Revenue (Millions)": 36.25,
     "Metascore": 70
@@ -1353,7 +1353,7 @@
     "Actors": "Ryûnosuke Kamiki, Mone Kamishiraishi, Ryô Narita, Aoi Yuki",
      "year": 2016,
     "Runtime (Minutes)": 106,
-    "rating": 8.6,
+    "rating": "g",
     "Votes": 34110,
     "Revenue (Millions)": 4.68,
     "Metascore": 79
@@ -1367,7 +1367,7 @@
     "Actors": "Aaron Poole, Kenneth Welsh,Daniel Fathers, Kathleen Munroe",
      "year": 2016,
     "Runtime (Minutes)": 90,
-    "rating": 5.8,
+    "rating": "unrated",
     "Votes": 9247,
     "Revenue (Millions)": 0.15,
     "Metascore": 62
@@ -1381,7 +1381,7 @@
     "Actors": "Kristen Stewart, Lars E_idinger, Sigr_id Bouaziz,Anders Danielsen Lie",
      "year": 2016,
     "Runtime (Minutes)": 105,
-    "rating": 6.3,
+    "rating": "unrated",
     "Votes": 10181,
     "Revenue (Millions)": 1.29,
     "Metascore": 77
@@ -1395,7 +1395,7 @@
     "Actors": "Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg",
      "year": 2006,
     "Runtime (Minutes)": 151,
-    "rating": 8.5,
+    "rating": "g",
     "Votes": 937414,
     "Revenue (Millions)": 132.37,
     "Metascore": 85
